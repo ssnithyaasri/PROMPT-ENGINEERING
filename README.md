@@ -12,7 +12,7 @@ Reg.No: 212222230100
 ```
 
 # Output:
-# Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+
 
 ## 1. Foundational Concepts of Generative AI
 
